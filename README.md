@@ -9,3 +9,4 @@ These dependent gems are used in development here at
 * [pry-remote](https://github.com/Mon-Ouie/pry-remote)
 * [pry-theme](https://github.com/kyrylo/pry-theme)
 * [awesome_print](https://github.com/michaeldv/awesome_print)
+* [rubocop-nww](https://github.com/Nix-wie-weg/rubocop-nww)
