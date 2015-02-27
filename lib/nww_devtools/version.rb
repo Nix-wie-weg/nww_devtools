@@ -1,3 +1,3 @@
 module NwwDevtools
-  VERSION = '0.2.0'
+  VERSION = '1.9.0'
 end
