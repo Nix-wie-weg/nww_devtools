@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'pry'
   gem.add_dependency 'pry-doc'
-  gem.add_dependency 'pry-debugger'
+  gem.add_dependency 'pry-byebug'
   gem.add_dependency 'pry-remote'
   gem.add_dependency 'pry-theme'
   gem.add_dependency 'awesome_print'
