@@ -13,3 +13,7 @@ These dependent gems are used in development here at
 
 The actual versions only support Ruby >= 2.0.
 For 1.9 support see the `ruby_1_9` branch and the `1.9.x` versions.
+
+## Credits
+
+* [funglaub](https://github.com/funglaub) former colleague
