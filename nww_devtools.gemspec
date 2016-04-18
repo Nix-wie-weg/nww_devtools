@@ -22,5 +22,5 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'pry-remote'
   gem.add_dependency 'pry-theme'
   gem.add_dependency 'awesome_print'
-  gem.add_dependency 'rubocop-nww', '>= 0.0.6'
+  gem.add_dependency 'rubocop-nww', '>= 0.0.7'
 end
