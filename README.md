@@ -9,19 +9,17 @@ We document the actual list here.
 * [pry](http://pryrepl.org/)
 * [pry-doc](https://github.com/banister/pry-doc)
 * [pry-byebug](https://github.com/deivid-rodriguez/pry-byebug)
-* [pry-remote](https://github.com/Mon-Ouie/pry-remote)
-* [pry-theme](https://github.com/kyrylo/pry-theme)
 * [awesome_print](https://github.com/michaeldv/awesome_print)
 
 ### Gemfile
 
 ```
-gem 'pry', require: false
-gem 'pry-doc', require: false
-gem 'pry-byebug', require: false
-gem 'pry-remote', require: false
-gem 'pry-theme', require: false
-gem 'awesome_print', require: false
+group :development do
+  gem 'pry'
+  gem 'pry-doc'
+  gem 'pry-byebug'
+  gem 'awesome_print'
+end
 ```
 
 ## Rails
