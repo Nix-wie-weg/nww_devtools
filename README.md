@@ -60,11 +60,12 @@ We agreed on the cops of the specific version 0.39.
 
 ```
 AllCops:
-  RunRailsCops: true
   TargetRubyVersion: 2.2
   Exclude:
     - 'vendor/bundle/**/*'
   DisplayCopNames: true
+Rails:
+  Enabled: true
 Style/Encoding:
   EnforcedStyle: when_needed
   Enabled: true
