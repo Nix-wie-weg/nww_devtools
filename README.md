@@ -47,7 +47,7 @@ BetterErrors::Middleware.allow_ip! '10.1.0.0/16' if Rails.env.development?
 ### Gemfile
 
 ```
-gem 'rubocop', '~> 0.39.0'
+gem 'rubocop', '~> 0.39.0', require: false
 ```
 
 We agreed on the cops of the specific version 0.39.
