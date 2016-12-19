@@ -97,6 +97,8 @@ Style/CommentAnnotation:
   Enabled: false
 Style/GuardClause:
   Enabled: false
+Style/FrozenStringLiteralComment:
+  Enabled: false
 ```
 
 #### Notes
